@@ -1,6 +1,6 @@
-#btn:hover{
-	background-color:black;
-	color:white;
-	border-radius:5px;
-	border:none;
+#btn:hover {
+    background-color: black;
+    color: rgb(0, 0, 0); /* Change to 'rgb(0, 0, 0)' */
+    border-radius: 5px;
+    border: none;
 }
